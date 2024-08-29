@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "C:/Users/Johnson/Desktop/website/test3",
+	"sourceRoot": "C:/Users/Johnson/Desktop/website/johnson_web",
 	"sources": [
 		"themes/love/assets/css/style.scss",
 		"themes/love/assets/lib/normalize/normalize.css",
