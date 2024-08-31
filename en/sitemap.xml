@@ -2,6 +2,15 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://johnsonsun.github.io/award/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-tw"
+                        href="https://johnsonsun.github.io/zh-tw/award/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://johnsonsun.github.io/award/"
+                    /></url><url>
             <loc>https://johnsonsun.github.io/contact/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="zh-tw"
